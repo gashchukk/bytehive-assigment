@@ -23,6 +23,8 @@ header {
     padding: 0;
     display: flex;
     gap: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
 }
 
 .navItem {
