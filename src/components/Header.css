@@ -2,7 +2,7 @@
 
 nav {
     color: #22282B;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
 }
 
 header {
@@ -41,4 +41,7 @@ header {
     width: 148px;
 
     align-content: space-around;
+}
+.header{
+    height: 100px;
 }
