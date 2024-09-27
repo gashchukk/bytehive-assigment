@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+nav {
+    color: #22282B;
+    font-family: 'Inter';
+}
+
+header {
+    color: black;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    margin: 0;
+}
+
+.navList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.navItem {
+    color: black;
+    text-decoration: none;
+}
+.App-logo {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 5px;
+}
+.social-media {
+    display: flex;
+    height: 26px;
+    gap: 35px;
+    width: 148px;
+
+    align-content: space-around;
+}
