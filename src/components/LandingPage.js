@@ -1,6 +1,5 @@
 import React from 'react';
 import './LandingPage.css'
-import {dividerClasses} from "@mui/material";
 export default function LandingPage() {
     return (
         <div className="landing-page">
@@ -17,9 +16,6 @@ export default function LandingPage() {
                     <button className="button1">Try it for free</button>
                 </div>
             </div>
-            </div>
-            <div className="landing-page-part2">
-
             </div>
         </div>
         )
